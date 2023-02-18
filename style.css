@@ -1,0 +1,423 @@
+.kk{
+    margin-top: -20px;
+}
+
+.kk1{
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+
+.qq{
+    width: 100%;
+    height: 600px;
+}
+
+.qq1{
+    background-color: rgba(255,255,255,0.9);
+    text-align: center;
+    width: 100%;
+    margin-top: -325px;
+    position: relative;
+    height: 250px;
+    /* justify-content: center; */
+    /* margin-left: 50px; */
+    border-top: 5px solid blue;
+    padding: 5px;
+}
+
+/* .btn:hover{
+    color: #fff;
+    transform: translate(-8px);
+} */
+
+.qq3{
+    margin: 20px;
+}
+
+.ww{
+    font-size: 50px;
+    color: rgb(79, 193, 239);
+    margin-left: 20px;
+    font-weight: bold;
+    
+}
+
+.ww2{
+    height: 250px;
+    width: 250px;
+    padding: 5px;
+    margin: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; ;
+}
+.ee{
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+}
+.ee3{
+
+text-align: center;
+ margin-top: 30px;
+color: white;
+}
+
+.ee1{
+border-radius: 20px;
+border: solid white ;
+margin-left: 39%;
+color: white;
+}
+.ee2{
+    height: 220px;
+}
+.rr{
+    width: 60px;
+    color:rgb(35, 35, 245);
+    font-weight: bold;
+    margin-left: 48%;
+    border: solid;
+
+    
+}
+.rr1{
+    width: 100%;
+    height: 500px;
+    background-color:aquamarine;
+    margin-top: 20px;
+    /* animation: mymove 5s infinite; */
+}
+/* @keyframes mymove {
+    50% {background-size: 125px 125px;}
+  } */
+
+.rr2{
+    color: rgb(27, 170, 227);
+    padding: 5px;
+    font-size: 20px;
+}
+.tt{
+    font-size: 40px;
+    padding: 20px;
+    color: rgb(33, 188, 249);
+}
+
+.tt2{
+    height: 210px;
+    width: 250px;
+    padding: 5px;
+    margin: 20px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+
+}
+.tt3:hover{
+color: rgb(59, 187, 238);
+transform: translate(-8px);
+border-bottom: none;
+
+}
+.tt3{
+    color: rgba(97, 94, 94, 0.858);
+    padding: 1px;
+}
+
+.uu{
+    width: 100%;
+    height: 500px;
+    border-radius: 400px ;
+    background-color: red;
+    outline: solid rgb(40, 9, 153);
+}
+
+.u{
+    width: 100%;
+    height: 500px;
+    border-radius: 400px ;
+    background-color: red;
+    outline: solid rgb(40, 9, 153);
+}
+
+.yy{
+    color: rgb(45, 179, 232);
+    font-size:30px;
+    padding: 10px;
+    animation: mymove 5s infinite;
+}
+@keyframes mymove {
+    50% {rotate: y 180deg;}
+  }
+.y{
+    margin-left: 10px;
+}
+.y1{
+    margin-left: 60px;
+}
+.i{
+    width: 60px;
+    color:rgb(35, 35, 245);
+    /* font-weight: bold; */
+    margin-left: 48%;
+    border: solid;
+}
+.ii{
+    width: 80px;
+    height: 80px;
+    border-radius: 60px;
+    background-color: skyblue;
+    outline: solid rgb(20, 20, 241);
+    margin: auto;
+    margin-top: 20px;
+    animation: mymove 5s infinite;
+}
+/* @keyframes mymove {
+    50% {transform: rotate(180deg);}
+  } */
+.ii1{
+    font-size: 40px;
+    margin-left: 25px;
+    margin-top: 20px;
+    color: blue;
+    animation: mymove 5s infinite;
+}
+ @keyframes mymove {
+    50% {transform: rotate(180deg);}
+  }
+.dropdown-menu{
+    width:100%;
+    /* margin-left: 500px; */
+    /* border-bottom: solid gray; */
+}
+ .o{
+width: 200px;
+height: 50px;
+border-radius: 50px;
+margin-top: 20px;
+margin: auto;
+margin-top: 50px; 
+ }
+
+
+
+.dd{
+    width: 300px;
+    height: 50px;
+}
+.oo{
+    width: 100%;
+    margin-top: 30px;
+    border-color: solid 0.5px rgb(135, 130, 130) !important;
+    padding: 5px;
+    outline: rgb(120, 115, 115);
+    color: gray;
+}
+.oo2{
+    /* padding: 20px; */
+    width: 100%;
+    height: 150px
+}
+.p{
+    width: 100%;
+    height: 130px;
+    background-color: rgb(212, 237, 246);
+    border-left: solid 10px skyblue;
+    margin-top: 10px;
+}
+.zz{
+padding-top: 20px;
+margin-left: 20px;
+color: rgb(6, 107, 146);
+}
+.a:hover{
+    color: rgb(6, 107, 146); 
+}
+.aa{
+    margin-top: 20px;
+    padding-left: 20px;
+}
+.aa1{
+    padding-bottom: 20px;
+}
+.aa:hover{
+    /* color: rgb(6, 107, 146); */
+    border-left: 5px solid skyblue; 
+    display: block;    
+    text-decoration: none;
+}
+
+
+.a1{
+    width: 300px;
+    height: 250px;
+    background-color: aqua;
+    margin-top: 20px;
+}
+.a2{
+    width: 100%;
+    height: 100%;
+}
+.a4{
+    margin-left: -30px;
+    margin-top: 30px;
+    color: gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* keshav */
+
+.container-fluid{
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-fluid .card{
+    position: relative;
+    cursor: pointer;
+}
+
+.container-fluid .card .face{
+    width: 300px;
+    height: 200px;
+    transition: 0.5s;
+}
+
+.container-fluid .card .face.face1{
+    position: relative;
+    background: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    transform: translateY(100px);
+}
+
+.container-fluid .card:hover .face.face1{
+    background: #ff0057;
+    transform: translateY(0);
+}
+
+.container-fluid .card .face.face1 .content{
+    opacity: 0.2;
+    transition: 0.5s;
+}
+
+.container-fluid .card:hover .face.face1 .content{
+    opacity: 1;
+}
+
+.container-fluid .card .face.face1 .content img{
+    max-width: 100px;
+}
+
+.container-fluid .card .face.face1 .content h3{
+    margin: 10px 0 0;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.container-fluid .card .face.face2{
+    position: relative;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);
+    transform: translateY(-100px);
+}
+
+.container-fluid .card:hover .face.face2{
+    transform: translateY(0);
+}
+
+.container-fluid .card .face.face2 .content p{
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid .card .face.face2 .content a{
+    margin: 15px 0 0;
+    display:  inline-block;
+    text-decoration: none;
+    font-weight: 900;
+    color: #333;
+    padding: 5px;
+    border: 1px solid #333;
+}
+
+.container-fluid .card .face.face2 .content a:hover{
+    background: #333;
+    color: #fff;
+}
+
+.keshav{
+    margin-left: 120px;
+}
+
+.keshav1{
+    margin-left:150px;
+}
+
+
+/* keshav end */
+
+
+
+
+
+
+
+/* .details{
+    margin: 20px 0;
+    background-color: #fff;
+    padding: 30px 20px;
+    position: relative;
+    z-index:1;
+} */
+
+
+
+
+
+@media (max-width: 600px) { 
+
+.qq1{
+    height: 300px;
+    
+}
+.qq3{
+    margin-top: 5px;
+}
+.ee3{
+    font-size: 10px;
+    margin-top: 10px;
+}
+
+.ee1{
+    margin-left: 45px
+}
+
+.rr{
+ margin-left: 130px;
+}
+.i{
+    margin-left: 43%;
+}
+
+
+
+ }
